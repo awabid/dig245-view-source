@@ -1,2 +1,37 @@
 
 /* css */
+h1{
+  font-family: cursive;
+}
+
+.float-left{
+  float: left;
+}
+
+.bg-element{
+
+  padding: 40px;
+
+  border: solid;
+  border-color: grey;
+  border-radius: : 3px;
+}
+body{
+  color:white;
+  padding: 40px;
+  background-image: url("../../assets/img/space.jpeg");
+
+}
+.title{
+  color: lightpink;
+  padding: 40px;
+  border:solid;
+  border-color: white;
+}
+p{
+  font-size: 20px;
+}
+th{
+  padding: 10px;
+  color: lightgrey;
+}
